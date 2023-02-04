@@ -1,2 +1,2 @@
-# random-string-msg-evest
+# random-str-msg-evest
 random String Message
